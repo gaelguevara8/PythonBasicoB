@@ -63,4 +63,4 @@ while i < 3:
     for d in mi_lista_3:
          if d != "lunes":
              print(d)
-            
+             
